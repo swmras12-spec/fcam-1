@@ -1,0 +1,14 @@
+{
+  "code": "corporateInventorySoldEnabled",
+  "name": "Corporate Inventory Sold Enabled",
+  "description": "This FCAM will control the enabling and disabling of corporate inventory sold in Amadeus hospitality data and reporting platform",
+  "isInternal": true,
+  "auditCategory": "switch",
+  "auditSubCategory": "mainAttributes",
+  "permanentActivation": false,
+  "isUHAFeature": false,
+  "skipKVSync": true,
+  "scopes": [
+    "chain"
+  ]
+}
